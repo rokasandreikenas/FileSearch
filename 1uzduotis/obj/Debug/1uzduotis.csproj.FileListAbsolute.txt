@@ -1,0 +1,50 @@
+C:\Users\rokas\source\repos\1uzduotis\1uzduotis\bin\Debug\1uzduotis.exe.config
+C:\Users\rokas\source\repos\1uzduotis\1uzduotis\bin\Debug\1uzduotis.exe
+C:\Users\rokas\source\repos\1uzduotis\1uzduotis\bin\Debug\1uzduotis.pdb
+C:\Users\rokas\source\repos\1uzduotis\1uzduotis\obj\Debug\1uzduotis.csprojAssemblyReference.cache
+C:\Users\rokas\source\repos\1uzduotis\1uzduotis\obj\Debug\_1uzduotis.Form1.resources
+C:\Users\rokas\source\repos\1uzduotis\1uzduotis\obj\Debug\_1uzduotis.Properties.Resources.resources
+C:\Users\rokas\source\repos\1uzduotis\1uzduotis\obj\Debug\1uzduotis.csproj.GenerateResource.cache
+C:\Users\rokas\source\repos\1uzduotis\1uzduotis\obj\Debug\1uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\rokas\source\repos\1uzduotis\1uzduotis\obj\Debug\1uzduotis.exe
+C:\Users\rokas\source\repos\1uzduotis\1uzduotis\obj\Debug\1uzduotis.pdb
+C:\Users\Rokas\Downloads\1uzduotis\1uzduotis\bin\Debug\1uzduotis.exe.config
+C:\Users\Rokas\Downloads\1uzduotis\1uzduotis\bin\Debug\1uzduotis.exe
+C:\Users\Rokas\Downloads\1uzduotis\1uzduotis\bin\Debug\1uzduotis.pdb
+C:\Users\Rokas\Downloads\1uzduotis\1uzduotis\obj\Debug\1uzduotis.csprojAssemblyReference.cache
+C:\Users\Rokas\Downloads\1uzduotis\1uzduotis\obj\Debug\_1uzduotis.Form1.resources
+C:\Users\Rokas\Downloads\1uzduotis\1uzduotis\obj\Debug\_1uzduotis.Properties.Resources.resources
+C:\Users\Rokas\Downloads\1uzduotis\1uzduotis\obj\Debug\1uzduotis.csproj.GenerateResource.cache
+C:\Users\Rokas\Downloads\1uzduotis\1uzduotis\obj\Debug\1uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Rokas\Downloads\1uzduotis\1uzduotis\obj\Debug\1uzduotis.exe
+C:\Users\Rokas\Downloads\1uzduotis\1uzduotis\obj\Debug\1uzduotis.pdb
+C:\Users\rokas\Desktop\1uzduotis\1uzduotis\bin\Debug\1uzduotis.exe.config
+C:\Users\rokas\Desktop\1uzduotis\1uzduotis\bin\Debug\1uzduotis.exe
+C:\Users\rokas\Desktop\1uzduotis\1uzduotis\bin\Debug\1uzduotis.pdb
+C:\Users\rokas\Desktop\1uzduotis\1uzduotis\obj\Debug\1uzduotis.csprojAssemblyReference.cache
+C:\Users\rokas\Desktop\1uzduotis\1uzduotis\obj\Debug\_1uzduotis.Form1.resources
+C:\Users\rokas\Desktop\1uzduotis\1uzduotis\obj\Debug\_1uzduotis.Properties.Resources.resources
+C:\Users\rokas\Desktop\1uzduotis\1uzduotis\obj\Debug\1uzduotis.csproj.GenerateResource.cache
+C:\Users\rokas\Desktop\1uzduotis\1uzduotis\obj\Debug\1uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\rokas\Desktop\1uzduotis\1uzduotis\obj\Debug\1uzduotis.exe
+C:\Users\rokas\Desktop\1uzduotis\1uzduotis\obj\Debug\1uzduotis.pdb
+C:\Users\Rokas\Desktop\Daugiagijis programavimas\1uzduotis\1uzduotis\bin\Debug\1uzduotis.exe.config
+C:\Users\Rokas\Desktop\Daugiagijis programavimas\1uzduotis\1uzduotis\bin\Debug\1uzduotis.exe
+C:\Users\Rokas\Desktop\Daugiagijis programavimas\1uzduotis\1uzduotis\bin\Debug\1uzduotis.pdb
+C:\Users\Rokas\Desktop\Daugiagijis programavimas\1uzduotis\1uzduotis\obj\Debug\1uzduotis.csprojAssemblyReference.cache
+C:\Users\Rokas\Desktop\Daugiagijis programavimas\1uzduotis\1uzduotis\obj\Debug\_1uzduotis.Form1.resources
+C:\Users\Rokas\Desktop\Daugiagijis programavimas\1uzduotis\1uzduotis\obj\Debug\_1uzduotis.Properties.Resources.resources
+C:\Users\Rokas\Desktop\Daugiagijis programavimas\1uzduotis\1uzduotis\obj\Debug\1uzduotis.csproj.GenerateResource.cache
+C:\Users\Rokas\Desktop\Daugiagijis programavimas\1uzduotis\1uzduotis\obj\Debug\1uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Rokas\Desktop\Daugiagijis programavimas\1uzduotis\1uzduotis\obj\Debug\1uzduotis.exe
+C:\Users\Rokas\Desktop\Daugiagijis programavimas\1uzduotis\1uzduotis\obj\Debug\1uzduotis.pdb
+C:\Users\Rokas\Desktop\SOFTWARE ENGINEERING\2KURSAS\Daugiagijis programavimas\1uzduotis\1uzduotis\bin\Debug\1uzduotis.exe.config
+C:\Users\Rokas\Desktop\SOFTWARE ENGINEERING\2KURSAS\Daugiagijis programavimas\1uzduotis\1uzduotis\bin\Debug\1uzduotis.exe
+C:\Users\Rokas\Desktop\SOFTWARE ENGINEERING\2KURSAS\Daugiagijis programavimas\1uzduotis\1uzduotis\bin\Debug\1uzduotis.pdb
+C:\Users\Rokas\Desktop\SOFTWARE ENGINEERING\2KURSAS\Daugiagijis programavimas\1uzduotis\1uzduotis\obj\Debug\1uzduotis.csprojAssemblyReference.cache
+C:\Users\Rokas\Desktop\SOFTWARE ENGINEERING\2KURSAS\Daugiagijis programavimas\1uzduotis\1uzduotis\obj\Debug\_1uzduotis.Form1.resources
+C:\Users\Rokas\Desktop\SOFTWARE ENGINEERING\2KURSAS\Daugiagijis programavimas\1uzduotis\1uzduotis\obj\Debug\_1uzduotis.Properties.Resources.resources
+C:\Users\Rokas\Desktop\SOFTWARE ENGINEERING\2KURSAS\Daugiagijis programavimas\1uzduotis\1uzduotis\obj\Debug\1uzduotis.csproj.GenerateResource.cache
+C:\Users\Rokas\Desktop\SOFTWARE ENGINEERING\2KURSAS\Daugiagijis programavimas\1uzduotis\1uzduotis\obj\Debug\1uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Rokas\Desktop\SOFTWARE ENGINEERING\2KURSAS\Daugiagijis programavimas\1uzduotis\1uzduotis\obj\Debug\1uzduotis.exe
+C:\Users\Rokas\Desktop\SOFTWARE ENGINEERING\2KURSAS\Daugiagijis programavimas\1uzduotis\1uzduotis\obj\Debug\1uzduotis.pdb
