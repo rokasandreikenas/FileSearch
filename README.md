@@ -9,4 +9,4 @@ Search any file on your computer by file type
   <li>Use try, catch blocks</li>
 </ul>
 
-<img src="filesearch.png" width="400" height="300">
+![filesearch](https://user-images.githubusercontent.com/35290383/60901249-4c36a100-a276-11e9-9e06-229851243734.PNG)
